@@ -3,6 +3,9 @@
 *************** by tzman ****************
 *****************************************
 
+Frustrated by that elusive achievement? Unsure if your last shot counted? Losing track of headshot kills?
+
+Worry no more! introducing Master Marksman Achievement Tracker, the definitive precision counter that tracks every headshot contributing to your achievement progress.
 
 Features
 ========
