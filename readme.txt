@@ -34,8 +34,9 @@ CHANGELOG
 =========
 
 2.0
-    - Ported to Next-Gen 4.4
-    - Does not modify any script file, i.e. no script merge required with other mods.
+    - Ported to Next-Gen 4.04
+    - Removed all game script modifications, i.e. no script merge required with other mods.
+    - Significantly smaller size and better performance.
 
 1.0 
     - Initial Release
